@@ -1,0 +1,12 @@
+C:\Data\charp\Abstractizare\TestOOP2WindowsFormsApp\TestOOP2WindowsFormsApp\bin\Debug\TestOOP2WindowsFormsApp.exe.config
+C:\Data\charp\Abstractizare\TestOOP2WindowsFormsApp\TestOOP2WindowsFormsApp\bin\Debug\TestOOP2WindowsFormsApp.exe
+C:\Data\charp\Abstractizare\TestOOP2WindowsFormsApp\TestOOP2WindowsFormsApp\bin\Debug\TestOOP2WindowsFormsApp.pdb
+C:\Data\charp\Abstractizare\TestOOP2WindowsFormsApp\TestOOP2WindowsFormsApp\obj\Debug\TestOOP2WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Data\charp\Abstractizare\TestOOP2WindowsFormsApp\TestOOP2WindowsFormsApp\obj\Debug\TestOOP2WindowsFormsApp.csproj.SuggestedBindingRedirects.cache
+C:\Data\charp\Abstractizare\TestOOP2WindowsFormsApp\TestOOP2WindowsFormsApp\obj\Debug\TestOOP2WindowsFormsApp.Form1.resources
+C:\Data\charp\Abstractizare\TestOOP2WindowsFormsApp\TestOOP2WindowsFormsApp\obj\Debug\TestOOP2WindowsFormsApp.Properties.Resources.resources
+C:\Data\charp\Abstractizare\TestOOP2WindowsFormsApp\TestOOP2WindowsFormsApp\obj\Debug\TestOOP2WindowsFormsApp.csproj.GenerateResource.cache
+C:\Data\charp\Abstractizare\TestOOP2WindowsFormsApp\TestOOP2WindowsFormsApp\obj\Debug\TestOOP2WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Data\charp\Abstractizare\TestOOP2WindowsFormsApp\TestOOP2WindowsFormsApp\obj\Debug\TestOOP2WindowsFormsApp.exe
+C:\Data\charp\Abstractizare\TestOOP2WindowsFormsApp\TestOOP2WindowsFormsApp\obj\Debug\TestOOP2WindowsFormsApp.pdb
+C:\Data\charp\Abstractizare\TestOOP2WindowsFormsApp\TestOOP2WindowsFormsApp\obj\Debug\TestOOP2WindowsFormsApp.FrmDesen.resources
